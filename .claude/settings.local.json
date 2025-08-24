@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan tinker:*)",
+      "Bash(mysql:*)",
+      "Bash(php artisan db:table:*)",
+      "Bash(php artisan make:migration:*)",
+      "Bash(php artisan:*)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
