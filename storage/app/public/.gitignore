@@ -1,2 +1,13 @@
+# Ignore everything
 *
+
+# But include these
 !.gitignore
+!src/
+!src/**
+!public/
+!public/**
+!storage/
+!storage/**
+!*.md
+!package.json
